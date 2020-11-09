@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<logging>
+  <bscs>
+    <bsc bsc_name="WZHBSC004" bsc_ip="10.77.162.143" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC005" bsc_ip="10.77.162.144" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC006" bsc_ip="10.77.162.145" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC007" bsc_ip="10.77.162.149" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC008" bsc_ip="10.77.162.156" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC011" bsc_ip="10.77.162.137" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC012" bsc_ip="10.77.162.138" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC014" bsc_ip="10.77.162.139" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC018" bsc_ip="10.77.162.180" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC019" bsc_ip="10.77.162.181" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC022" bsc_ip="10.77.164.2" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC024" bsc_ip="10.77.164.4" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC025" bsc_ip="10.77.164.5" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC026" bsc_ip="10.77.164.6" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC027" bsc_ip="10.77.164.7" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC028" bsc_ip="10.77.164.8" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC033" bsc_ip="10.77.164.9" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC054" bsc_ip="10.77.89.160" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC055" bsc_ip="10.77.162.173" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC058" bsc_ip="10.77.162.157" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC067" bsc_ip="10.77.89.161" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC068" bsc_ip="10.77.89.162" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC069" bsc_ip="10.77.89.163" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC071" bsc_ip="10.77.89.165" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC073" bsc_ip="10.77.162.165" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC075" bsc_ip="10.77.162.167" bsc_type="BSC3i440"/>
+    <bsc bsc_name="WZHBSC076" bsc_ip="10.77.162.168" bsc_type="BSC3i440"/>
+    <bsc bsc_name="WZHBSC086" bsc_ip="10.77.89.132" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC088" bsc_ip="10.77.89.134" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC089" bsc_ip="10.77.89.135" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC090" bsc_ip="10.77.89.136" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSC101" bsc_ip="10.77.89.138" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC102" bsc_ip="10.77.89.139" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC103" bsc_ip="10.77.89.140" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC104" bsc_ip="10.77.89.141" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC105" bsc_ip="10.77.89.142" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC106" bsc_ip="10.77.89.143" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC107" bsc_ip="10.77.89.144" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC108" bsc_ip="10.77.89.145" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC109" bsc_ip="10.77.89.146" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC110" bsc_ip="10.77.89.147" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC111" bsc_ip="10.77.89.148" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC112" bsc_ip="10.77.89.149" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC113" bsc_ip="10.77.89.150" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC114" bsc_ip="10.77.89.151" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC115" bsc_ip="10.77.89.152" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC116" bsc_ip="10.77.89.153" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC117" bsc_ip="10.77.89.154" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC118" bsc_ip="10.77.89.155" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC119" bsc_ip="10.77.89.156" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC120" bsc_ip="10.77.89.157" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC121" bsc_ip="10.77.89.158" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC122" bsc_ip="10.77.89.159" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC124" bsc_ip="10.77.164.19" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC125" bsc_ip="10.77.164.20" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC126" bsc_ip="10.77.164.21" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC127" bsc_ip="10.211.169.2" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC128" bsc_ip="10.211.169.3" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC129" bsc_ip="10.211.169.4" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC130" bsc_ip="10.211.169.5" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC131" bsc_ip="10.211.170.131" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC132" bsc_ip="10.211.170.132" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC133" bsc_ip="10.211.170.133" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC134" bsc_ip="10.211.170.134" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC135" bsc_ip="10.211.170.135" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC136" bsc_ip="10.211.170.136" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC137" bsc_ip="10.211.170.137" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC138" bsc_ip="10.211.170.138" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC139" bsc_ip="10.211.170.139" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC140" bsc_ip="10.211.170.140" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC141" bsc_ip="10.211.170.141" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSC142" bsc_ip="10.77.95.106" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC143" bsc_ip="10.77.95.107" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC144" bsc_ip="10.77.95.108" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC145" bsc_ip="10.77.95.109" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC146" bsc_ip="10.212.194.130" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC147" bsc_ip="10.212.194.131" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC148" bsc_ip="10.212.194.132" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC149" bsc_ip="10.212.194.133" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC150" bsc_ip="10.212.194.134" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC151" bsc_ip="10.212.194.135" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC153" bsc_ip="10.212.194.137" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC154" bsc_ip="10.212.194.138" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC155" bsc_ip="10.212.194.139" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC156" bsc_ip="10.212.194.140" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC157" bsc_ip="10.212.194.141" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC158" bsc_ip="10.212.194.142" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC159" bsc_ip="10.212.194.143" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC160" bsc_ip="10.212.194.145" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC161" bsc_ip="10.212.194.146" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC162" bsc_ip="10.212.194.147" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC163" bsc_ip="10.212.194.148" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSC164" bsc_ip="10.212.194.150" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSCR01" bsc_ip="10.77.162.177" bsc_type="BSC3i660"/>
+    <bsc bsc_name="WZHBSCR03" bsc_ip="10.77.89.137" bsc_type="BSC3i2000"/>
+    <bsc bsc_name="WZHBSCR05" bsc_ip="10.212.194.136" bsc_type="FlexiBSC"/>
+    <bsc bsc_name="WZHBSCR06" bsc_ip="10.77.164.18" bsc_type="BSC3i2000"/>
+  </bscs>
+  <cmds>
+    <cmd command="ZQNI;"/>
+    <cmd command="ZUSI:COMP;"/>
+    <cmd command="ZEEL;"/>
+    <cmd command="ZEQO:SEG=1&amp;&amp;&lt;MAX&gt;;"/>
+    <cmd command="ZFXI:NSEI=0&amp;&amp;65535;"/>
+    <cmd command="ZEAO:SEG=1&amp;&amp;&lt;MAX&gt;;"/>
+    <cmd command="ZZZZ;"/>
+  </cmds>
+  <setting>
+    <bsc_username_question>ENTER USERNAME &lt;</bsc_username_question>
+    <bsc_username_answer>ALLBSC</bsc_username_answer>
+    <bsc_password_question>ENTER PASSWORD &lt;</bsc_password_question>
+    <bsc_password_answer>ABC12#</bsc_password_answer>
+    <router_ip></router_ip>
+    <router_prompt>DCN_R1&gt;</router_prompt>
+    <router_username_question></router_username_question>
+    <router_username_answer></router_username_answer>
+    <router_password_question>Password: </router_password_question>
+    <router_password_answer>Flyomc9$~</router_password_answer>
+    <log_path>C:\bsctemp</log_path>
+    <is_single>0</is_single>
+    <thread_number>8</thread_number>
+    <is_error_stop>1</is_error_stop>
+  </setting>
+</logging>
